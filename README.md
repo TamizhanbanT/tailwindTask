@@ -1,4 +1,4 @@
 # tailwindTask
 
-deploy link: https://comforting-centaur-fd6a33.netlify.app/
+deploy link: https://papaya-moxie-8ff401.netlify.app/
 
